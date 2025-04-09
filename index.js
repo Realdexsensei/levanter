@@ -18,4 +18,4 @@ const start = async () => {
     logger.error(error)
   }
 }
-start()
+start(on)
